@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<smlouva xmlns="https://es.vse.cz/smlouvy/mfcr">
+	<predmet>Zajištění vývoje IS ...</predmet>
+	<url>https://mfcr.ezak.cz/contract_display_00.html</url>
+	<id_smlouvy_z_url>00</id_smlouvy_z_url>
+	<id_verejne_zakazky>P15V00000000</id_verejne_zakazky>
+	<druh>Služby</druh>
+	<dokumenty>
+		<dokument>
+			<typ>pdf</typ>
+			<nazev>dokument.pdf</nazev>
+			<url>https://mfcr.ezak.cz/.../dokument.pdf</url>
+			<text>...</text>
+			<md5>8081ab7c07843d63717a28be9d8fe0a9</md5>
+		</dokument>
+		<dokument>
+			<typ>doc</typ>
+			<nazev>dokument.doc</nazev>
+			<url>https://mfcr.ezak.cz/.../dokument.doc</url>
+			<text>...</text>
+			<md5>8081ab7c07843d63717a28be9d8fe0a9</md5>
+		</dokument>
+	</dokumenty>
+</smlouva>

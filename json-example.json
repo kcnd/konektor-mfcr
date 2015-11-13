@@ -1,0 +1,23 @@
+{
+  "predmet":"Zajištění vývoje IS ...",
+  "url":"https://mfcr.ezak.cz/contract_display_00.html",
+  "id_smlouvy_z_url":"00",
+  "id_verejne_zakazky":"P15V00000000",
+  "druh":"Služby",
+  "dokumenty":[
+    {
+      "typ":"pdf",
+      "nazev":"dokument.pdf",
+      "url_dokumentu":"https://mfcr.ezak.cz/.../dokument.pdf",
+      "text":"...",
+      "md5":"8081ab7c07843d63717a28be9d8fe0a9"
+    },
+    {
+      "typ":"doc",
+      "nazev":"dokument.doc",
+      "url_dokumentu":"https://mfcr.ezak.cz/.../dokument.doc",
+      "text":"...",
+      "md5":"8081ab7c07843d63717a28be9d8fe0a9"
+    }
+  ]
+}
